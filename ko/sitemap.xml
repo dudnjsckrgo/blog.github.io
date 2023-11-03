@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://example.org/ko/</loc>
+    <loc>https://dudnjsckrgo.github.io/blog/ko/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.org/"
+      href="https://dudnjsckrgo.github.io/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="kr"
-      href="https://example.org/kr/"
+      href="https://dudnjsckrgo.github.io/blog/kr/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="https://example.org/ko/"
+      href="https://dudnjsckrgo.github.io/blog/ko/"
     />
   </url>
 </urlset>
