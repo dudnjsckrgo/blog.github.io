@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trend IT Blog</title>
+    <title>TripleYoung Blog</title>
     <link>https://example.org/</link>
-    <description>Recent content on Trend IT Blog</description>
+    <description>Recent content on TripleYoung Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 </copyright>
-    <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://example.org/posts/my-first/</link>
-      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
-      
-      <guid>https://example.org/posts/my-first/</guid>
-      <description>Introduction # This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
-      
-    </item>
-    
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
